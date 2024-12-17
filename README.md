@@ -187,4 +187,13 @@ const handleSubmit = async () => {
 
 ---
 
+## **Screenshots**
+
+![screencapture-localhost-3000-2024-12-17-13_45_28](https://github.com/user-attachments/assets/dc8fffd4-be4e-4999-9869-76267d320f6d)
+
+![screencapture-localhost-3000-2024-12-17-13_45_55](https://github.com/user-attachments/assets/b443739e-e79f-45f2-bf09-8289f4c76d50)
+
+![screencapture-localhost-3000-2024-12-17-13_47_31](https://github.com/user-attachments/assets/f8a6a7a3-6118-459a-902e-75f4d7e5f4fd)
+
+
 
